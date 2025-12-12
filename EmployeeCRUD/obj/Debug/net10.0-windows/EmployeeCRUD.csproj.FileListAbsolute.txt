@@ -1,0 +1,17 @@
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\bin\Debug\net10.0-windows\EmployeeCRUD.exe
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\bin\Debug\net10.0-windows\EmployeeCRUD.dll
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\bin\Debug\net10.0-windows\FluentValidation.dll
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\bin\Debug\net10.0-windows\EmployeeCRUD.deps.json
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\bin\Debug\net10.0-windows\EmployeeCRUD.runtimeconfig.json
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\bin\Debug\net10.0-windows\EmployeeCRUD.pdb
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.csproj.AssemblyReference.cache
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.AssemblyInfoInputs.cache
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.AssemblyInfo.cs
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.csproj.CoreCompileInputs.cache
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\Employee.18BA8678.Up2Date
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.dll
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\refint\EmployeeCRUD.dll
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.pdb
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\EmployeeCRUD.genruntimeconfig.cache
+C:\Users\sandu\Downloads\EmployeeCRUD-master\EmployeeCRUD-master\EmployeeCRUD\obj\Debug\net10.0-windows\ref\EmployeeCRUD.dll
